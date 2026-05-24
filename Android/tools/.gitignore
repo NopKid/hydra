@@ -1,0 +1,22 @@
+# Executables
+a.out
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+
+# Shared libraries
+*.so
+*.dll
+*.dylib
+
+# Build directories
+build/
+bin/
+
+
